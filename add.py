@@ -1,5 +1,5 @@
 a=100
-b=25
+b=256
 print(a+b)
 print(a-b)
 
